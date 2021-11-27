@@ -2,11 +2,26 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Inicio from './Inicio';
+import Iniciarsesion from './Iniciarsesion';
+import Recuperarcontraseña from './Recuperarcontraseña';
+import Usuariodeplanta from './Usuariodeplanta';
+import Agendarcita from './Agendarcita';
 import reportWebVitals from './reportWebVitals';
 
+import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <Routes>
+        <Route exact path="/" element={<App/>} />
+        <Route path="/Inicio" element={<Inicio/>} />
+        <Route path="/Iniciarsesion" element={<Iniciarsesion/>} />
+        <Route path="/Recuperarcontraseña" element={<Recuperarcontraseña/>} />
+        <Route path="/Usuariodeplanta" element={<Usuariodeplanta/>} />
+        <Route path="/Agendarcita" element={<Agendarcita/>} />
+      </Routes>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );

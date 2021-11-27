@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { Link} from "react-router-dom";
 
-  function App() {
+  function Inicio() {
     return (
       <div>
         <a href="https://nicepage.com" className="u-align-left u-image u-logo u-image-1" data-image-width={500} data-image-height={500}>
@@ -344,4 +343,4 @@ c5.5,0,9.9,4.5,9.9,9.9V73.3z" /></svg></span>
     );
   }
 
-export default App;
+export default Inicio;
