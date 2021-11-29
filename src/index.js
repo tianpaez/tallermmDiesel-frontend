@@ -19,7 +19,7 @@ ReactDOM.render(
         <Route path="/Iniciarsesion" element={<Iniciarsesion/>} />
         <Route path="/Recuperarcontraseña" element={<Recuperarcontraseña/>} />
         <Route path="/Usuariodeplanta" element={<Usuariodeplanta/>} />
-        <Route path="/Agendarcita" element={<Agendarcita/>} />
+        <Route path="/Agendarcita" element={<Agendarcita/>} /> 
       </Routes>
     </Router>
   </React.StrictMode>,
@@ -30,3 +30,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
