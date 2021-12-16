@@ -35,15 +35,15 @@ import Footer from '../../../commons/Footer';
                             <div className="u-container-layout u-container-layout-4">
                               <div className="u-border-1 u-border-grey-10 u-container-style u-grey-15 u-group u-radius-15 u-shape-round u-group-4">
                                 <div className="u-container-layout u-container-layout-5">
-                                  <h5 className="u-align-center u-text u-text-2">nombre del usuario</h5>
+                                  <h5 className="u-align-center u-text u-text-2">Nombre </h5>
                                 </div>
                               </div>
-                              <h6 className="u-align-center u-text u-text-default u-text-3">apellidos del usuario</h6>
+                              <h6 className="u-align-center u-text u-text-default u-text-3">Apellidos</h6>
                             </div>
                           </div>
                           <div className="u-border-1 u-border-grey-10 u-container-style u-grey-15 u-group u-radius-15 u-shape-round u-group-5">
                             <div className="u-container-layout u-container-layout-6">
-                              <h6 className="u-align-center u-text u-text-default u-text-4">tipo y numero de documento</h6>
+                              <h6 className="u-align-center u-text u-text-default u-text-4">Número de documento</h6>
                             </div>
                           </div>
                           <div className="u-border-1 u-border-grey-10 u-container-style u-expanded-width u-grey-15 u-group u-radius-15 u-shape-round u-group-6">
@@ -53,12 +53,12 @@ import Footer from '../../../commons/Footer';
                           </div>
                           <div className="u-border-1 u-border-grey-10 u-container-style u-expanded-width u-grey-15 u-group u-radius-15 u-shape-round u-group-7">
                             <div className="u-container-layout u-container-layout-8">
-                              <h6 className="u-align-center u-text u-text-6">cel 3090000000</h6>
+                              <h6 className="u-align-center u-text u-text-6">Télefono 3090000000</h6>
                             </div>
                           </div>
                           <div className="u-border-1 u-border-grey-10 u-container-style u-expanded-width u-grey-15 u-group u-radius-15 u-shape-round u-group-8">
                             <div className="u-container-layout u-valign-middle u-container-layout-9">
-                              <h6 className="u-text u-text-7">dirección kr 0000</h6>
+                              <h6 className="u-text u-text-7">Dirección kr 0000</h6>
                             </div>
                           </div>
                         </div>
@@ -67,7 +67,7 @@ import Footer from '../../../commons/Footer';
                   </div>
                   <div className="u-container-style u-layout-cell u-size-13-sm u-size-13-xs u-size-14-lg u-size-14-xl u-size-30-md u-layout-cell-2">
                     <div className="u-container-layout u-container-layout-10">
-                      <Link to="/Modservicio" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-6 u-btn-1">CONFIGURAR LOS SERVICIOS&nbsp;</Link>
+                      <Link to="/ModificarServicio" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-6 u-btn-1">CONFIGURAR LOS SERVICIOS&nbsp;</Link>
                       <div className="u-border-2 u-border-custom-color-1 u-container-style u-custom-color-1 u-group u-radius-30 u-shape-round u-group-9">
                         <div className="u-container-layout u-container-layout-11">
                           <h6 className="u-text u-text-8">¡Configura los servicios según las necesidades de los clientes y las exigencias del mercado!.</h6>
@@ -92,7 +92,7 @@ import Footer from '../../../commons/Footer';
                   </div>
                   <div className="u-container-style u-layout-cell u-size-14-lg u-size-14-sm u-size-14-xl u-size-14-xs u-size-30-md u-layout-cell-4">
                     <div className="u-container-layout u-container-layout-14">
-                      <Link to="/Gestiondeservicios" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-6 u-btn-3">GENERAR REPORTES A SERVICIOS</Link>
+                      <Link to="/GestionServicios" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-6 u-btn-3">GENERAR REPORTES A SERVICIOS</Link>
                       <div className="u-border-2 u-border-custom-color-1 u-container-style u-custom-color-1 u-group u-radius-30 u-shape-round u-group-11">
                         <div className="u-container-layout u-container-layout-15">
                           <h6 className="u-text u-text-10">¡Genera los reportes necesarios a los servicios asignados!.</h6>

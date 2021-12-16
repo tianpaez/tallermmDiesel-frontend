@@ -2640,9 +2640,9 @@
   }
   
   .u-section-1 .u-repeater-1 {
-    grid-template-columns: repeat(8, calc(12.5% - 19.25px));
+    grid-template-columns: repeat(4, calc(25% - 25px));
     min-height: 215px;
-    grid-gap: 22px;
+    grid-gap: 30px;
   }
   
   .u-section-1 .u-list-item-1 {

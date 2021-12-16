@@ -30,7 +30,7 @@ ReactDOM.render(
         <Route path="/Zservicios" element={<Zservicios/>} />
         <Route path="/ModificarServicio" element={<ModificarServicio/>} />
         <Route path="/GestionServicios" element={<GestionServicios/>} /> 
-        <Route path="/PerfilUsuarioMec" element={<PerfilUsuarioMec/>} />
+        <Route path="/UsuarioMecanico" element={<PerfilUsuarioMec/>} />
         <Route path="/EstadoVehiculo" element={<EstadoVehiculo/>} />
         <Route path="/DashboardAdm" element={<DashboardAdm/>} />
       </Routes>

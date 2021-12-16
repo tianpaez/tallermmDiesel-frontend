@@ -11,14 +11,7 @@ import Footer from '../../../commons/Footer';
         </section>
         <section className="u-clearfix u-section-2" id="sec-0b4a">
           <div className="u-clearfix u-sheet u-sheet-1">
-          <div className="u-container-style u-custom-color-1 u-group u-radius-15 u-shape-round u-group-1">
-              <div className="u-container-layout u-container-layout-1">
-                <h3 className="u-text u-text-default u-text-1">
-                  <span style={{fontSize: '1.5rem'}}>RECUPERAR </span>
-                  <span style={{fontSize: '1.5rem'}}>CONTRASEÑA</span>
-                </h3>
-              </div>
-            </div>
+          <h6><b>RECUPERAR CONTRASEÑA</b></h6>
             <div className="u-form u-radius-20 u-white u-form-1">
               <form action="https://nicepage.com/editor/Forms/Process" method="POST" className="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" source="email" name="form" style={{padding: '20px'}}>
                 <input type="hidden" id="siteId" name="siteId" defaultValue={1017901} />

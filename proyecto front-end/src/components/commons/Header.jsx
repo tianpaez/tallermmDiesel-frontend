@@ -18,8 +18,8 @@ import { Link} from "react-router-dom";
               </div>
               <div className="u-custom-menu u-nav-container">
                 <ul className="u-nav u-spacing-10 u-unstyled u-nav-1"><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="/Inicio" style={{padding: '10px 20px'}}>INICIO</Link>
-                  </li><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="/Servicios" style={{padding: '10px 20px'}}>NUEST​ROS SERVICIOS</Link>
-                  </li><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="/Servicios" style={{padding: '10px 20px'}}>¿COMO FUNCIONA?</Link>
+                  </li><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="/Zservicios" style={{padding: '10px 20px'}}>NUEST​ROS SERVICIOS</Link>
+                  </li><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="" style={{padding: '10px 20px'}}>¿COMO FUNCIONA?</Link>
                   </li><li className="u-nav-item"><Link className="u-active-custom-color-1 u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-button-style u-hover-grey-10 u-nav-link u-radius-20 u-text-active-white u-text-grey-90 u-text-hover-grey-90 u-white" to="/Iniciarsesion" target="_blank" style={{padding: '10px 20px'}}>INICIAR SESIÓN</Link>
                   </li></ul>
               </div>
@@ -28,8 +28,8 @@ import { Link} from "react-router-dom";
                   <div className="u-inner-container-layout u-sidenav-overflow">
                     <div className="u-menu-close" />
                     <ul className="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="/Inicio" style={{padding: '10px 20px'}}>INICIO</Link>
-                      </li><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="/Servicios" style={{padding: '10px 20px'}}>NUEST​ROS SERVICIOS</Link>
-                      </li><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="/Servicios" style={{padding: '10px 20px'}}>¿COMO FUNCIONA?</Link>
+                      </li><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="/Zservicios" style={{padding: '10px 20px'}}>NUEST​ROS SERVICIOS</Link>
+                      </li><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="" style={{padding: '10px 20px'}}>¿COMO FUNCIONA?</Link>
                       </li><li className="u-nav-item"><Link className="u-button-style u-nav-link" to="/Iniciarsesion" target="_blank" style={{padding: '10px 20px'}}>INICIAR SESIÓN</Link>
                       </li></ul>
                   </div>

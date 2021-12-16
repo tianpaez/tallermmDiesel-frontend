@@ -32,7 +32,7 @@ c5.5,0,9.9,4.5,9.9,9.9V73.3z" /></svg></span>
               </div>
             </div>
             <Link to="/inicio" className="u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-50 u-btn-1">¡CONOCEMOS!</Link>
-            <Link to="/servicios" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-50 u-btn-2">AGENDA TU CITA</Link>
+            <Link to="/Zservicios" className="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-light-1 u-radius-50 u-btn-2">AGENDA TU CITA</Link>
             <h4 className="u-text u-text-1">HORARIO DE ATENCIÓN</h4>
             <h4 className="u-text u-text-2">CONTACTANOS&nbsp; AHOR​A</h4>
             <div className="u-container-style u-group u-radius-10 u-shape-round u-white u-group-2">
